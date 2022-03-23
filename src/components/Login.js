@@ -14,7 +14,7 @@ const Login = () => {
         </div>
         <div>
           <a href="/">
-            <h6 className="font-normal ">Join now</h6>
+            <h6 className="font-normal text-blue-400">Join now</h6>
           </a>
         </div>
       </div>
